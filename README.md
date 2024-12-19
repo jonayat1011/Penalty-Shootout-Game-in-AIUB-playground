@@ -19,5 +19,6 @@ Ensure the following dependencies are installed on your system:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd PenaltyShootoutGame
+   git clone https://github.com/jonayat1011/Penalty-Shootout-Game-in-AIUB-playground
+   cd Penalty-Shootout-Game-in-AIUB-playground
+   
